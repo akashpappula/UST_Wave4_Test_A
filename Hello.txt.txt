@@ -1,1 +1,2 @@
 This is the sample text
+This is the text which was edited in the remote(github) not in local (notepad)
